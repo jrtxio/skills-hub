@@ -14,6 +14,7 @@
 | [frontend-design](frontend-design/) | 前端设计 |
 | [mcp-builder](mcp-builder/) | MCP 服务器构建 |
 | [ui-ux-pro-max](ui-ux-pro-max/) | UI/UX 设计 |
+| [obsidian-skills](obsidian-skills/) | Obsidian 技能集 - Markdown、Bases、Canvas、CLI 等 |
 
 ## 技能结构
 
@@ -48,5 +49,6 @@ skill-name/
 | pdf, docx, pptx, xlsx | Proprietary (Anthropic) |
 | skill-creator, frontend-design, mcp-builder | Apache 2.0 |
 | ui-ux-pro-max | 个人技能 |
+| obsidian-skills | MIT |
 
 除非另有说明，本仓库的结构和组织受版权保护。
